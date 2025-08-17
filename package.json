@@ -21,6 +21,8 @@
     "vite": "5.4.3"
   },
   "overrides": {
-    "@sveltejs/vite-plugin-svelte": "3.0.2"
-  }
+  "@sveltejs/vite-plugin-svelte": "3.0.2",
+  "@sveltejs/kit/@sveltejs/vite-plugin-svelte": "3.0.2"
+}
+
 }
